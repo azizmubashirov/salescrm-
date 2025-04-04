@@ -14,7 +14,7 @@ Soluv is a web application built with Django framework that [briefly describe th
 ### Installation Steps
 1. Clone the repository:
 ```bash
-git clone https://github.com/username/soluv.git
+git clone https://github.com/username/salescrm-.git
 cd soluv
 ```
 
